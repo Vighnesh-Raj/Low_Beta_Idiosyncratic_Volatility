@@ -2,20 +2,34 @@
 # Quantitative Portfolio Strategies: Betting Against Beta and Idiosyncratic Volatility
 
 ## Overview
-This repository demonstrates quantitative investment strategies based on academic finance principles. The strategies include:
-- **Betting Against Beta (BAB):** Exploits the low-beta anomaly by selecting stocks with the lowest market beta.
-- **Avoiding Idiosyncratic Volatility (AIV):** Selects stocks with the lowest residual volatility to minimize unsystematic risk.
+This repository demonstrates two quantitative investment strategies based on academic finance principles:
 
-## Key Features
-1. Rolling beta estimation using historical stock data (CRSP dataset).
-2. Monthly portfolio rebalancing using a 5-year rolling window.
-3. Performance evaluation using Sharpe ratio, maximum drawdown, and cumulative returns.
-4. Combination of strategies to optimize risk-adjusted returns.
+1. **Betting Against Beta (BAB):** Exploits the low-beta anomaly by selecting stocks with the lowest market beta.
+2. **Avoiding Idiosyncratic Volatility (AIV):** Selects stocks with the lowest residual volatility to minimize unsystematic risk.
+
+Both strategies are evaluated using key performance metrics such as the Sharpe ratio and maximum drawdown. Additionally, we explore a combined strategy to optimize risk-adjusted returns.
+
+---
 
 ## Results
 ### Individual Strategy Performance
-- **Example Sharpe Ratio (Low Beta):** `Placeholder: 1.20`
-- **Example Sharpe Ratio (Low Volatility):** `Placeholder: 1.10`
+### Individual Strategy Performance
+- **Betting Against Beta (BAB):**
+   - Example Sharpe Ratio: `Placeholder: 1.20`
+   - Example Maximum Drawdown: `Placeholder: -15%`
+- **Avoiding Idiosyncratic Volatility (AIV):**
+   - Example Sharpe Ratio: `Placeholder: 1.10`
+   - Example Maximum Drawdown: `Placeholder: -12%`
+
+### Combined Strategy
+- **Example Correlation Between Strategies:** `Placeholder: 0.30`
+- **Combined Strategy Sharpe Ratio (50% Allocation):** `Placeholder: 1.25`
+- **Optimal Weights for Combined Portfolio (Max Sharpe):**
+  - BAB: `Placeholder: 60%`
+  - AIV: `Placeholder: 40%`
+
+---
+
 
 ### Visualizations
 1. **Cumulative Returns**: ![Cumulative Returns](results/cumulative_returns_example.png)
@@ -39,7 +53,7 @@ repo/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Vighnesh-Raj/Low_Beta_Idiosyncratic_Volatility.git
    cd repo
    ```
 2. Install dependencies:
@@ -52,4 +66,4 @@ repo/
 2. Use `src/` scripts to compute beta, volatility, and backtest strategies.
 
 ## Contact
-For any questions or collaboration opportunities, reach out to [Your Name].
+For any questions or collaboration opportunities, reach out to me at vighnesh_raj@live.com.
