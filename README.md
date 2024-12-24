@@ -1,0 +1,1 @@
+# Low_Beta_Idiosyncratic_Volatility
