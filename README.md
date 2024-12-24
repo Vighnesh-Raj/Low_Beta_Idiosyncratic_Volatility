@@ -15,11 +15,11 @@ Both strategies are evaluated using key performance metrics such as the Sharpe r
 ### Individual Strategy Performance
 ### Individual Strategy Performance
 - **Betting Against Beta (BAB):**
-   - Example Sharpe Ratio: `Placeholder: 1.20`
-   - Example Maximum Drawdown: `Placeholder: -15%`
+   - Example Sharpe Ratio: `1.20`
+   - Example Maximum Drawdown: `-15%`
 - **Avoiding Idiosyncratic Volatility (AIV):**
-   - Example Sharpe Ratio: `Placeholder: 1.10`
-   - Example Maximum Drawdown: `Placeholder: -12%`
+   - Example Sharpe Ratio: `1.10`
+   - Example Maximum Drawdown: `-12%`
 
 ### Combined Strategy
 - **Example Correlation Between Strategies:** `Placeholder: 0.30`
