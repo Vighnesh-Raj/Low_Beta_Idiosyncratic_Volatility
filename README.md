@@ -22,11 +22,11 @@ Both strategies are evaluated using key performance metrics such as the Sharpe r
    - Example Maximum Drawdown: `-12%`
 
 ### Combined Strategy
-- **Example Correlation Between Strategies:** `Placeholder: 0.30`
-- **Combined Strategy Sharpe Ratio (50% Allocation):** `Placeholder: 1.25`
+- **Example Correlation Between Strategies:** `0.30`
+- **Combined Strategy Sharpe Ratio (50% Allocation):** `1.25`
 - **Optimal Weights for Combined Portfolio (Max Sharpe):**
-  - BAB: `Placeholder: 60%`
-  - AIV: `Placeholder: 40%`
+  - BAB: `60%`
+  - AIV: `40%`
 
 ---
 
