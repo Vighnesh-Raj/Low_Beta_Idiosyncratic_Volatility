@@ -31,8 +31,8 @@ Both strategies are evaluated using key performance metrics such as the Sharpe r
 
 
 ### Visualizations
-1. **Cumulative Returns**: ![Cumulative Returns](results/cumulative_returns_example.png)
-2. **Drawdown**: ![Drawdown](results/drawdown_example.png)
+1. **Cumulative Returns**: ![Cumulative Returns](results/Cumulative_Returns.jpeg)
+2. **Drawdown**: ![Drawdown](results/Maxiumum_Drawdown.jpeg)
 
 ## Repository Structure
 ```
