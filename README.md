@@ -13,20 +13,19 @@ Both strategies are evaluated using key performance metrics such as the Sharpe r
 
 ## Results
 ### Individual Strategy Performance
-### Individual Strategy Performance
 - **Betting Against Beta (BAB):**
-   - Example Sharpe Ratio: `1.20`
-   - Example Maximum Drawdown: `-15%`
+   - Sharpe Ratio: `0.95`
+   - Maximum Drawdown: `-44.5%`
 - **Avoiding Idiosyncratic Volatility (AIV):**
-   - Example Sharpe Ratio: `1.10`
-   - Example Maximum Drawdown: `-12%`
+   - Example Sharpe Ratio: `0.81`
+   - Example Maximum Drawdown: `-41.3%`
 
 ### Combined Strategy
-- **Example Correlation Between Strategies:** `0.30`
-- **Combined Strategy Sharpe Ratio (50% Allocation):** `1.25`
+- **Correlation Between Strategies:** `0.22`
+- **Combined Strategy Sharpe Ratio (50% Allocation):** `1.1`
 - **Optimal Weights for Combined Portfolio (Max Sharpe):**
-  - BAB: `60%`
-  - AIV: `40%`
+  - BAB: `63%`
+  - AIV: `37%`
 
 ---
 
