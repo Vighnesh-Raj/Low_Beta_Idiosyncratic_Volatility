@@ -50,14 +50,10 @@ repo/
 - Required Libraries: pandas, numpy, matplotlib, statsmodels, joblib, tqdm
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Vighnesh-Raj/Low_Beta_Idiosyncratic_Volatility.git
    cd repo
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ### Usage
